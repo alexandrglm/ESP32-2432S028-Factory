@@ -1,0 +1,146 @@
+\A?l\A?
+4_A?4^A?4]A?
+\A?4_A?4_A?4_A?4_A?
+Tasks currently running:
+CPU 0/1
+CPU 1
+CPU 0
+[%u] CO: init coex schm error!
+[%u] CO: create bb reset mutex error!
+[%u] CO: create semaphore error!
+[%u] CO: create schm semaphore error!
+?Memory dump at 0x
+Backtrace:
+Core
+ register dump:
+ was running in ISR context:
+EPC1    : 0x
+  EPC2    : 0x
+  EPC3    : 0x
+  EPC4    : 0x
+ELF file SHA256: 
+PC      
+PS      
+A0      
+A1      
+A2      
+A3      
+A4      
+A5      
+A6      
+A7      
+A8      
+A9      
+A10     
+A11     
+A12     
+A13     
+A14     
+A15     
+SAR     
+EXCCAUSE
+EXCVADDR
+LBEG    
+LEND    
+LCOUNT  
+Rebooting...
+%s failed: esp_err_t 0x%x
+ (%s)
+ at 0x%08x
+file: "%s" line %d
+func: %s
+expression: %s
+abort() was called at PC 0x%08x on core %d
+***ERROR*** A stack overflow in task 
+ has been detected.
+Unknown reason
+Guru Meditation Error: Core 
+ panic'ed (
+Debug exception reason: 
+SingleStep 
+HwBreakpoint 
+Stack canary watchpoint triggered (
+Watchpoint 0 triggered 
+BREAK instr 
+BREAKN instr 
+DebugIntr 
+Unhandled debug exception
+Double exception
+Unhandled kernel exception
+Coprocessor exception
+Interrupt wdt timeout on CPU0
+Interrupt wdt timeout on CPU1
+Cache disabled but cached memory region accessed
+Unknown
+ at pc=
+. Setting bp and returning..
+. Exception was unhandled.
+ESP_ERROR_CHECK_WITHOUT_ABORT
+ESP_ERROR_CHECK
+IllegalInstruction
+Syscall
+InstructionFetchError
+LoadStoreError
+Level1Interrupt
+Alloca
+IntegerDivideByZero
+PCValue
+Privileged
+LoadStoreAlignment
+InstrPDAddrError
+LoadStorePIFDataError
+InstrPIFAddrError
+LoadStorePIFAddrError
+InstTLBMiss
+InstTLBMultiHit
+InstFetchPrivilege
+InstrFetchProhibited
+LoadStoreTLBMiss
+LoadStoreTLBMultihit
+LoadStorePrivilege
+LoadProhibited
+StoreProhibited
+Cp0Dis
+Cp1Dis
+Cp2Dis
+Cp3Dis
+Cp4Dis
+Cp5Dis
+Cp6Dis
+Cp7Dis
+?!is_first_block(heap, block)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/heap/multi_heap.c
+CORRUPT HEAP: multi_heap.c:%d detected at 0x%08x
+!is_last_block(block)
+next > (intptr_t)block
+a < b
+heap != NULL
+CORRUPT HEAP: Block %p points to itself
+CORRUPT HEAP: Block %p is before prev block %p
+CORRUPT HEAP: Block %p is outside heap (last valid block %p)
+CORRUPT HEAP: Two adjacent free blocks found, %p and %p
+CORRUPT HEAP: Prev free block %p pointed to next free %p but this free block is %p
+CORRUPT HEAP: Last block %p not %p
+CORRUPT HEAP: Expected prev block %p to be free
+CORRUPT HEAP: Expected %u free bytes counted %u
+Heap start %p end %p
+First free block %p
+Block %p data size 0x%08x bytes next block %p
+ FREE. Next free %p
+multi_heap_realloc_impl
+merge_adjacent
+get_prev_free_block
+split_if_necessary
+get_next_block
+CORRUPT HEAP: Bad head at %p. Expected 0x%08x got 0x%08x
+CORRUPT HEAP: Bad tail at %p. Expected 0x%08x got 0x%08x
+head != NULL
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/heap/multi_heap_poisoning.c
+CORRUPT HEAP: Size at %p expected <=0x%08x got 0x%08x
+multi_heap_get_allocated_size
+multi_heap_realloc
+multi_heap_free
+rtc_clk
+E (%d) %s: invalid rtc_cpu_freq_t value
+E (%d) %s: unsupported frequency configuration
+E (%d) %s: invalid frequ

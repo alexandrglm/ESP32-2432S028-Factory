@@ -1,0 +1,1131 @@
+9036908-dirty
+esp32-arduino-lib-builder
+06:09:28
+Mar 26 2021
+v3.3.5-1-g85c43024c
+Data x 
+Data y 
+Hello Arduino! 
+I am LVGL_Arduino
+Setup done
+%u FPS
+%u%% CPU
+Febr
+March
+July
+Sept
+%02d.%02d.%d
+Desktop: %u
+Tablet: %u
+Mobile: %u
+Costs: %d %%
+Sales: %d %%
+Revenue: %d %%
+VIII
+Blue jeans
+Clothes
+Elena Smith
+This is a short description of me. Take a look at my profile!
+elena@smith.com
++79 246 123 4567
+Log out
+Invite
+Your profile
+User name
+Your name
+Password
+Min. 8 chars.
+Gender
+Male
+Female
+Other
+Birthday
+Your skills
+Experience
+Team player
+Hard-working
+LVGL v8
+Widgets demo
+Profile
+Analytics
+Shop
+Unique visitors
+Monthly revenue
+Costs: 58%
+Sales: 44%
+Revenue: 63%
+Monthly Target
+Mobile: 
+Tablet: 
+Desktop: 
+Sessions
+High Speed
+Normal Speed
+Low speed
+Network Speed
+Mbps
+Monthly Summary
+8-15 July, 2021
+$27,123.25
+ 17% growth this week
+Top products
+$722
+$411
+$917
+$805
+Notification
+Item purchased
+New connection
+New subscriber
+New message
+Milestone reached
+Out of stock
+$+@?
+data
+"3DUfw
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+"3DUfw
+XA?!XA?$XA?'XA?*XA?`
+%d %s
+January
+February
+April
+June
+August
+September
+October
+November
+December
+vXA?~XA?
+XA?`
+@?H}
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980
+1979
+1978
+1977
+1976
+1975
+1974
+1973
+1972
+1971
+1970
+1969
+1968
+1967
+1966
+1965
+1964
+1963
+1962
+1961
+1960
+1959
+1958
+1957
+1956
+1955
+1954
+1953
+1952
+1951
+1950
+1949
+1948
+1947
+1946
+1945
+1944
+1943
+1942
+1941
+1940
+1939
+1938
+1937
+1936
+1935
+1934
+1933
+1932
+1931
+1930
+1929
+1928
+1927
+1926
+1925
+1924
+1923
+1922
+1921
+1920
+1919
+1918
+1917
+1916
+1915
+1914
+1913
+1912
+1911
+1910
+1909
+1908
+1907
+1906
+1905
+1904
+1903
+1902
+1901
+Enter
+q[A?
+[A?=
+[A?h
+WA?h
+\A?	\A?h
+A?hXA?lXA?i
+q[A?
+[A?=
+\A?	\A?h
+\A?!\A?h
+A?#\A?%\A?'\A?)\A?+\A?-\A?/\A?1\A?3\A?5\A?7\A?9\A?h
+[A?hXA?>
+@?lXA?
+WA?i
+[A?;\A?=\A??\A?A\A?C\A?E\A?
+@?G\A?I\A?	\A?h
+A?K\A?M\A?
+A?O\A?Q\A?S\A?
+A?U\A?
+\A?h
+\A?W\A?
+@?Y\A?
+A?[\A?
+A?]\A?_\A?h
+[A?hXA?>
+@?lXA?
+WA?i
+[A?a\A?#
+A?"XA?(XA?-
+@?c\A?
+@?	\A?h
+[A?+XA?tXA?B
+@?%XA?e\A?k
+\A?h
+\A?g\A?
+@?i\A?
+A?]\A?_\A?h
+[A?hXA?>
+@?lXA?
+WA?i
+d 2 
+d d @
+@d d 
+d d @
+,uA?<pA?
+nA?YnA?=1
+ !"#
+%&'''
+'&()&&**'*'*+,-../.0
+#	1	
+%%&'()*+
+-./0123-4450--..67893::;:<)
+	0		
+33O 
+dkp/@
+ldob
+wwwu
+DDDDB
+"""O
+"""""
+""""!
+"""""
+&fffff
+"""!
+&fffc
+&ffP
+5fffffP
+YuQ4A
+lETC3F
+I$9oS
+X[9|[
+!!H#l%
+GjI<K
+ ,.;:-_
+Btn1
+Btn2
+Btn3
+Btn4
+Btn5
+Check box
+@? "
+Option 1
+Option 2
+Option 3
+@?$)
+@?H2
+Text
+@?8K
+Option 1
+Option 2
+Option 3
+Option 4
+Option 5
+@?xQ
+@?l_
+ret == ESP_OK
+C:\Users\Administrator\Desktop\JYC\demo\libraries\TFT_eSPI\Processors/TFT_eSPI_ESP32.c
+.vlw
+Font file 
+ not found!
+void TFT_eSPI::dmaWait()
+A?0$
+A?0/
+A?KI
+7777777777
+          
+0HH0
+@      
+      @
+@@@@@@@@@@@@@
+      @      
+@@@@@0
+@@@@@@@@@
+@@@@@@@
+0H@@@
+@@@@
+          
+@@  
+DD((
+@@@@@@@@
+((DD|
+  @@
+@@@@@@@@
+>[O[>>kOk>
+&)y)&@
+%?Z<
+j`````
+08>80
+db6IV P
+>QIE>
+rIIIF!AIM3
+'EEE9<JII1A!
+6III6FII)
+>A]YN|
+III6>AAA"
+AAA>
+IIIA
+>AAQs
+ @A?
+@@@@
+>AAA>
+>AQ!^
+)F&III2
+?@@@?
+?@8@?c
+aYIMC
+@@@@@
+ TTx@
+(DD88DDD(8DD(
+8TTT
+ @@=
+x8DDD8
+HTTT$
+?D$<@@ |
+<@0@<D(
+|DdTLD
+<&#&<
+:@@ z8TTUY!UUyA!TTxA!UTx@ TUy@
+9UUUY9TTTY9UTTX
+|TUE
+ TT|T|
+I2III22HHH22JHH0:AA!z:B@ x
+}9DDD9=@@@=<$
+$$H~ICf+/
+ TTyA
+D}A0HHJ28@@"z
+1}&))/(&)))&0HM@ 8
+8DD8D|**>
+cUIAc8DD<
+rL0JMM00HxH0
+bZF=>III
+~*****DD_DD@QJD@@DJQ@
+<<<<
+@%s%s
+/spiffs
+loopTask
+slowclk_cycles < 32767
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/soc/esp32/rtc_time.c
+rtc_time
+E (%d) %s: slowclk_cycles value too large, possible overflow
+rtc_clk_cal_internal
+%02x 
+E (%d) %s: %s
+W (%d) %s: %s
+D (%d) %s: %s
+V (%d) %s: %s
+I (%d) %s: %s
+ %02x
+, function: 
+assertion "%s" failed: file "%s", line %d%s%s
+@0000000000000000                INF
+0123456789abcdef
+0123456789ABCDEF
+@0000000000000000                Infinity
+[%Co
+O8M2
+vH7B
+W4vC
+@0000000000000000                
+@0000000000000000                try_heap_caps_add_region(mem_start, mem_end)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/bt/bt.c
+select_src_ret && set_div_ret
+esp_bt_controller_mem_release
+heap_size <= HEAP_SIZE_MAX
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/heap/heap_caps_init.c
+heap_idx <= num_heaps
+heap_idx == num_heaps
+SLIST_EMPTY(&registered_heaps)
+heaps_array != NULL
+heap_caps_init
+register_heap
+esp_ptr_in_diram_dram((void *)dstart)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/heap/heap_caps.c
+esp_ptr_in_diram_dram((void *)dend)
+(dstart & 3) == 0
+(dend & 3) == 0
+heap != NULL && "free() target pointer is outside heap areas"
+heap != NULL && "realloc() pointer is outside heap areas"
+old_size > 0
+Heap summary for capabilities 0x%08X:
+  At 0x%08x len %d free %d allocated %d min_free %d
+    largest_free_block %d alloc_blocks %d free_blocks %d total_blocks %d
+  Totals:
+    free %d allocated %d min_free %d largest_free_block %d
+heap_caps_realloc
+heap_caps_free
+dram_alloc_to_iram_addr
+strncmp(src_path, vfs->path_prefix, vfs->path_prefix_len) == 0
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/vfs/vfs.c
+translate_path
+wpa2
+smartconfig
+core
+net80211
+coexist
+mesh
+task_wdt
+E (%d) %s: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (%d) %s:  - %s (%s)
+E (%d) %s: CPU %d: %s
+E (%d) %s: Aborting.
+esp_intr_alloc(ETS_TG0_WDT_LEVEL_INTR_SOURCE, 0, task_wdt_isr, NULL, &twdt_config->intr_handle)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/task_wdt.c
+esp_intr_free(twdt_config->intr_handle)
+esp_register_freertos_idle_hook_for_cpu(idle_hook_cb, i)
+esp_task_wdt_add
+esp_task_wdt_init
+TIMER_IS_AFTER_OVERFLOW(REG_READ(FRC_TIMER_COUNT_REG(1)))
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/esp_timer_esp32.c
+time_us > 0 && "negative adjustments not supported yet"
+esp_timer_impl
+E (%d) %s: esp_intr_alloc failed (0x%0x)
+s_timer_ticks_per_us > 0 && apb_freq % TIMER_DIV == 0 && "APB frequency does not result in a valid ticks_per_us value"
+esp_intr_enable(s_timer_interrupt_handle)
+esp_timer_impl_init
+timer_count_reload
+rtc_clk_xtal_freq_get() != RTC_XTAL_FREQ_AUTO
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/clk.c
+esp_clk_init
+esp_task_wdt_init(CONFIG_TASK_WDT_TIMEOUT_S, true)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/cpu_start.c
+esp_task_wdt_add(idle_0)
+/dev/uart/0
+err == ESP_OK && "Failed to init pthread module!"
+main
+res == pdTRUE
+cpu_start
+E (%d) %s: Running on single core chip, but application is built with dual core support.
+E (%d) %s: Please enable CONFIG_FREERTOS_UNICORE option in menuconfig.
+main_task
+start_cpu0_default
+cpuid == xPortGetCoreID()
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/ipc.c
+ipc%d
+ipc_task
+esp_ipc_init
+svd != NULL
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/intr_alloc.c
+!((vd->flags&VECDESC_FL_SHARED)&&(vd->flags&VECDESC_FL_NONSHARED))
+esp_intr_disable
+esp_intr_free
+is_vect_desc_usable
+find_desc_for_source
+%s 0x%x(%d)
+ESP_FAIL
+ESP_OK
+ESP_ERR_NO_MEM
+ESP_ERR_INVALID_ARG
+ESP_ERR_INVALID_STATE
+ESP_ERR_INVALID_SIZE
+ESP_ERR_NOT_FOUND
+ESP_ERR_NOT_SUPPORTED
+ESP_ERR_TIMEOUT
+ESP_ERR_INVALID_RESPONSE
+ESP_ERR_INVALID_CRC
+ESP_ERR_INVALID_VERSION
+ESP_ERR_INVALID_MAC
+ESP_ERR_NVS_BASE
+ESP_ERR_NVS_NOT_INITIALIZED
+ESP_ERR_NVS_NOT_FOUND
+ESP_ERR_NVS_TYPE_MISMATCH
+ESP_ERR_NVS_READ_ONLY
+ESP_ERR_NVS_NOT_ENOUGH_SPACE
+ESP_ERR_NVS_INVALID_NAME
+ESP_ERR_NVS_INVALID_HANDLE
+ESP_ERR_NVS_REMOVE_FAILED
+ESP_ERR_NVS_KEY_TOO_LONG
+ESP_ERR_NVS_PAGE_FULL
+ESP_ERR_NVS_INVALID_STATE
+ESP_ERR_NVS_INVALID_LENGTH
+ESP_ERR_NVS_NO_FREE_PAGES
+ESP_ERR_NVS_VALUE_TOO_LONG
+ESP_ERR_NVS_PART_NOT_FOUND
+ESP_ERR_NVS_NEW_VERSION_FOUND
+ESP_ERR_NVS_XTS_ENCR_FAILED
+ESP_ERR_NVS_XTS_DECR_FAILED
+ESP_ERR_NVS_XTS_CFG_FAILED
+ESP_ERR_NVS_XTS_CFG_NOT_FOUND
+ESP_ERR_NVS_ENCR_NOT_SUPPORTED
+ESP_ERR_NVS_KEYS_NOT_INITIALIZED
+ESP_ERR_NVS_CORRUPT_KEY_PART
+ESP_ERR_ULP_BASE
+ESP_ERR_ULP_SIZE_TOO_BIG
+ESP_ERR_ULP_INVALID_LOAD_ADDR
+ESP_ERR_ULP_DUPLICATE_LABEL
+ESP_ERR_ULP_UNDEFINED_LABEL
+ESP_ERR_ULP_BRANCH_OUT_OF_RANGE
+ESP_ERR_OTA_BASE
+ESP_ERR_OTA_PARTITION_CONFLICT
+ESP_ERR_OTA_SELECT_INFO_INVALID
+ESP_ERR_OTA_VALIDATE_FAILED
+ESP_ERR_OTA_SMALL_SEC_VER
+ESP_ERR_OTA_ROLLBACK_FAILED
+ESP_ERR_OTA_ROLLBACK_INVALID_STATE
+ESP_ERR_EFUSE
+ESP_OK_EFUSE_CNT
+ESP_ERR_EFUSE_CNT_IS_FULL
+ESP_ERR_EFUSE_REPEATED_PROG
+ESP_ERR_CODING
+ESP_ERR_IMAGE_BASE
+ESP_ERR_IMAGE_FLASH_FAIL
+ESP_ERR_IMAGE_INVALID
+ESP_ERR_WIFI_BASE
+ESP_ERR_WIFI_NOT_INIT
+ESP_ERR_WIFI_NOT_STARTED
+ESP_ERR_WIFI_NOT_STOPPED
+ESP_ERR_WIFI_IF
+ESP_ERR_WIFI_MODE
+ESP_ERR_WIFI_STATE
+ESP_ERR_WIFI_CONN
+ESP_ERR_WIFI_NVS
+ESP_ERR_WIFI_MAC
+ESP_ERR_WIFI_SSID
+ESP_ERR_WIFI_PASSWORD
+ESP_ERR_WIFI_TIMEOUT
+ESP_ERR_WIFI_WAKE_FAIL
+ESP_ERR_WIFI_WOULD_BLOCK
+ESP_ERR_WIFI_NOT_CONNECT
+ESP_ERR_WIFI_POST
+ESP_ERR_WIFI_INIT_STATE
+ESP_ERR_WIFI_STOP_STATE
+ESP_ERR_WIFI_REGISTRAR
+ESP_ERR_WIFI_WPS_TYPE
+ESP_ERR_WIFI_WPS_SM
+ESP_ERR_ESPNOW_BASE
+ESP_ERR_ESPNOW_NOT_INIT
+ESP_ERR_ESPNOW_ARG
+ESP_ERR_ESPNOW_NO_MEM
+ESP_ERR_ESPNOW_FULL
+ESP_ERR_ESPNOW_NOT_FOUND
+ESP_ERR_ESPNOW_INTERNAL
+ESP_ERR_ESPNOW_EXIST
+ESP_ERR_ESPNOW_IF
+ESP_ERR_MESH_BASE
+ESP_ERR_MESH_WIFI_NOT_START
+ESP_ERR_MESH_NOT_INIT
+ESP_ERR_MESH_NOT_CONFIG
+ESP_ERR_MESH_NOT_START
+ESP_ERR_MESH_NOT_SUPPORT
+ESP_ERR_MESH_NOT_ALLOWED
+ESP_ERR_MESH_NO_MEMORY
+ESP_ERR_MESH_ARGUMENT
+ESP_ERR_MESH_EXCEED_MTU
+ESP_ERR_MESH_TIMEOUT
+ESP_ERR_MESH_DISCONNECTED
+ESP_ERR_MESH_QUEUE_FAIL
+ESP_ERR_MESH_QUEUE_FULL
+ESP_ERR_MESH_NO_PARENT_FOUND
+ESP_ERR_MESH_NO_ROUTE_FOUND
+ESP_ERR_MESH_OPTION_NULL
+ESP_ERR_MESH_OPTION_UNKNOWN
+ESP_ERR_MESH_XON_NO_WINDOW
+ESP_ERR_MESH_INTERFACE
+ESP_ERR_MESH_DISCARD_DUPLICATE
+ESP_ERR_MESH_DISCARD
+ESP_ERR_MESH_VOTING
+ESP_ERR_MESH_XMIT
+ESP_ERR_MESH_QUEUE_READ
+ESP_ERR_MESH_RECV_RELEASE
+ESP_ERR_TCPIP_ADAPTER_BASE
+ESP_ERR_TCPIP_ADAPTER_INVALID_PARAMS
+ESP_ERR_TCPIP_ADAPTER_IF_NOT_READY
+ESP_ERR_TCPIP_ADAPTER_DHCPC_START_FAILED
+ESP_ERR_TCPIP_ADAPTER_DHCP_ALREADY_STARTED
+ESP_ERR_TCPIP_ADAPTER_DHCP_ALREADY_STOPPED
+ESP_ERR_TCPIP_ADAPTER_NO_MEM
+ESP_ERR_TCPIP_ADAPTER_DHCP_NOT_STOPPED
+ESP_ERR_PING_BASE
+ESP_ERR_PING_INVALID_PARAMS
+ESP_ERR_PING_NO_MEM
+ESP_ERR_HTTP_BASE
+ESP_ERR_HTTP_MAX_REDIRECT
+ESP_ERR_HTTP_CONNECT
+ESP_ERR_HTTP_WRITE_DATA
+ESP_ERR_HTTP_FETCH_HEADER
+ESP_ERR_HTTP_INVALID_TRANSPORT
+ESP_ERR_HTTP_CONNECTING
+ESP_ERR_HTTP_EAGAIN
+ESP_ERR_HTTPD_BASE
+ESP_ERR_HTTPD_HANDLERS_FULL
+ESP_ERR_HTTPD_HANDLER_EXISTS
+ESP_ERR_HTTPD_INVALID_REQ
+ESP_ERR_HTTPD_RESULT_TRUNC
+ESP_ERR_HTTPD_RESP_HDR
+ESP_ERR_HTTPD_RESP_SEND
+ESP_ERR_HTTPD_ALLOC_MEM
+ESP_ERR_HTTPD_TASK
+ESP_ERR_HTTPS_OTA_BASE
+ESP_ERR_HTTPS_OTA_IN_PROGRESS
+ESP_ERR_FLASH_BASE
+ESP_ERR_FLASH_OP_FAIL
+ESP_ERR_FLASH_OP_TIMEOUT
+ERROR
+B?	0
+ 	B?
+<	B?
+X	B?
+l	B?
+	B?30
+	B?40
+	B?50
+	B?d0
+	B?e0
+	B?f0
+B?g0
+B?h0
+B?i0
+B?j0
+B?k0
+B?l0
+B?	@
+Stack smashing protect failure!
+last
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/esp_timer.c
+timer@%p  %12lld  %12lld
+esp_timer
+timer_task
+timer_insert
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/dport_access.c
+dport
+esp_dport_access_int_init
+esp_dport_access_stall_other_cpu_end
+Brownout detector was triggered
+rtc_isr_register(rtc_brownout_isr_handler, NULL, RTC_CNTL_BROWN_OUT_INT_ENA_M)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/brownout.c
+esp_brownout_init
+wifi
+ESPNOW
+@(hint & (~RST_REASON_MASK)) == 0
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/reset_reason.c
+esp_reset_reason_set_hint
+core_id<portNUM_PROCESSORS
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/crosscore_int.c
+err == ESP_OK
+esp_crosscore_int_send
+esp_crosscore_int_init
+ETSTimer
+esp_timer_create(&create_args, (esp_timer_handle_t*)&(ptimer->timer_arg))
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/ets_timer_legacy.c
+timer_initialized(ptimer)
+esp_timer_start_once(ESP_TIMER(ptimer), time_us)
+esp_timer_start_periodic(ESP_TIMER(ptimer), time_us)
+ets_timer_arm_us
+ets_timer_setfn
+spi_master
+E (%d) %s: %s(%d): invalid dev handle
+E (%d) %s: %s(%d): rxdata transfer > 32 bits without configured DMA
+E (%d) %s: %s(%d): txdata transfer > 32 bits without configured DMA
+E (%d) %s: %s(%d): txdata transfer > host maximum
+E (%d) %s: %s(%d): rxdata transfer > host maximum
+E (%d) %s: %s(%d): rx length > tx length in full duplex mode
+E (%d) %s: %s(%d): incompatible iface params
+E (%d) %s: %s(%d): SPI half duplex mode does not support using DMA with both MOSI and MISO phases.
+E (%d) %s: %s(%d): trans tx_buffer should be NULL and SPI_TRANS_USE_TXDATA should be cleared to skip MOSI phase.
+E (%d) %s: %s(%d): trans rx_buffer should be NULL and SPI_TRANS_USE_RXDATA should be cleared to skip MISO phase.
+host->hw->cmd.usr == 0
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/driver/spi_master.c
+host->hw->slave.trans_done == 1
+host->cur_cs == NO_CS
+E (%d) %s: %s(%d): acquire finite time not supported now.
+host->bus_locked
+E (%d) %s: %s(%d): SPI1 is not supported
+E (%d) %s: %s(%d): invalid host
+E (%d) %s: %s(%d): invalid dma channel
+E (%d) %s: %s(%d): intr flag not allowed
+spi master
+E (%d) %s: %s(%d): host already in use
+E (%d) %s: %s(%d): dma channel already in use
+E (%d) %s: %s(%d): host not in use
+E (%d) %s: %s(%d): not all CSses freed
+E (%d) %s: %s(%d): invalid handle
+E (%d) %s: %s(%d): Have unfinished transactions
+E (%d) %s: %s(%d): host not initialized
+E (%d) %s: %s(%d): spics pin invalid
+E (%d) %s: %s(%d): invalid sclk speed
+E (%d) %s: %s(%d): no free cs pins for host
+E (%d) %s: %s(%d): In full-duplex mode, only support cs pretrans delay = 1 and without address_bits and command_bits
+E (%d) %s: %s(%d): When work in full-duplex mode at frequency > %.1fMHz, device cannot read correct data.
+Try to use IOMUX pins to increase the frequency limit, or use the half duplex mode.
+Please note the SPI master can only work at divisors of 80MHz, and the driver always tries to find the closest frequency to your configuration.
+Specify ``SPI_DEVICE_NO_DUMMY`` to ignore this checking. Then you can output data at higher speed, or read data at your own risk.
+E (%d) %s: %s(%d): Cannot queue new transaction while previous polling transaction is not terminated.
+ret_trans == trans_desc
+E (%d) %s: %s(%d): Cannot acquire bus when a polling transaction is in progress.
+E (%d) %s: Cannot release bus when a polling transaction is in progress.
+E (%d) %s: %s(%d): currently timeout is not available for polling transactions
+E (%d) %s: %s(%d): Cannot send polling transaction while the previous polling transaction is not terminated.
+atomic_load(&host->acquire_cs) == handle->id
+host->isr_free
+host->cur_cs == atomic_load(&host->acquire_cs)
+spi_device_get_trans_result
+timer_group
+E (%d) %s: %s(%d): %s
+TIMER GROUP NUM ERROR
+HW TIMER NUM ERROR
+HW TIMER PARAM ADDR ERROR
+HW TIMER COUNTER DIR ERROR
+HW TIMER AUTORELOAD ERROR
+HW TIMER divider outside of [2, 65536] range error
+HW TIMER ALARM ERROR
+timer_group_intr_enable
+@0d91410
+Invalid coexist adapter function md5, internal: %s, idf: %s
+coexist adapter function is NULL
+coexist adapter function version error! Version %x is expected, but it is %x
+coexist adapter function magic error! Magic %x is expected, but it is %x
+dc30037
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/newlib/locks.c
+%s:%d (%s)- assert failed!
+lock_acquire_generic
+_lock_close
+Unhandled interrupt %d on cpu %d!
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/freertos/queue.c
+vQueueDelete
+uxQueueMessagesWaiting
+xQueueReceiveFromISR
+xQueueGenericReceive
+xQueueGiveFromISR
+xQueueGenericSendFromISR
+prvNotifyQueueSetContainer
+xQueueGenericSend
+xQueueCreateCountingSemaphore
+xQueueTakeMutexRecursive
+xQueueGiveMutexRecursive
+xQueueGenericCreate
+xQueueGenericReset
+FreeRTOS
+E (%d) %s: FreeRTOS Task "%s" should not return, Aborting now!
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/freertos/port.c
+coreID == mux->owner
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/freertos/portmux_impl.inc.h
+mux->count < 0x100
+res == coreID || res == portMUX_FREE_VAL
+(res == portMUX_FREE_VAL) == (mux->count == 0)
+mux->count < 0xFF
+vPortCPUReleaseMutexIntsDisabledInternal
+vPortCPUReleaseMutexIntsDisabledExtram
+vPortCPUAcquireMutexIntsDisabledInternal
+vPortCPUAcquireMutexIntsDisabledExtram
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/freertos/tasks.c
+IDLE%d
+vPortCPUReleaseMutexIntsDisabledInternal
+vPortCPUReleaseMutexIntsDisabledExtram
+vPortCPUAcquireMutexIntsDisabledInternal
+vPortCPUAcquireMutexIntsDisabledExtram
+xTaskPriorityDisinherit
+xTaskCheckForTimeOut
+vTaskSetTimeOutState
+xTaskRemoveFromEventList
+vTaskPlaceOnEventListRestricted
+vTaskPlaceOnEventList
+xTaskIncrementTick
+xTaskGetIdleTaskHandleForCPU
+pcTaskGetTaskName
+xTaskResumeAll
+vTaskStartScheduler
+vTaskPrioritySet
+vTaskDelay
+prvDeleteTCB
+prvDeleteTLS
+vTaskDelete
+prvAddNewTaskToReadyList
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/freertos/timers.c
+Tmr Svc
+@prvCheckForValidListAndQueue
+prvProcessReceivedCommands
+prvProcessExpiredTimer
+prvSwitchTimerLists
+xTimerCreateTimerTask
+itemTypeOf(dst) == datatype
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_types.hpp
+index >= 0 && index < Nitems
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp
+tailroom!=0
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_storage.cpp
+err != ESP_ERR_NVS_PAGE_FULL
+chunkStart == item.blobIndex.chunkStart
+dataSize == readSize
+static_cast<uint8_t> (chunkStart) + chunkNum == item.chunkIndex
+offset == dataSize
+findItem(nsIndex, datatype, key, findPage, item)
+prevStart == VerOffset::VER_0_OFFSET || prevStart == VerOffset::VER_1_OFFSET
+void nvs::Item::getValue(T&) [with T = unsigned char]
+index == mFirstUsedEntry
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_page.cpp
+mState == PageState::UNINITIALIZED
+index < ENTRY_COUNT
+entry < ENTRY_COUNT
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_page.hpp
+end <= ENTRY_COUNT
+end > begin
+size % ENTRY_SIZE == 0
+mNextFreeEntry != INVALID_ENTRY
+mFirstUsedEntry != INVALID_ENTRY
+totalSize == ENTRY_SIZE || isVariableLengthType(datatype)
+state == EntryState::WRITTEN || state == EntryState::EMPTY
+readEntryIndex != mFirstUsedEntry
+item.span > 0
+CORRUPT
+ACTIVE
+FREEING
+UNINITIALIZED
+0 && "invalid state value"
+state=%x (%s) addr=%x seq=%d
+firstUsed=%d nextFree=%d used=%d erased=%d
+%3d: 
+W ns=%2u type=%2u span=%3u key="%s" chunkIdx=%d len=%d
+mState != PageState::FREEING
+false && "Unhandled state"
+esp_err_t nvs::Page::alterEntryRangeState(size_t, size_t, nvs::Page::EntryState)
+void CompressedEnumTable<Tenum, Nbits, Nitems>::set(size_t, Tenum) [with Tenum = nvs::Page::EntryState; unsigned int Nbits = 2u; unsigned int Nitems = 126u; size_t = unsigned int]
+esp_err_t nvs::Page::alterEntryState(size_t, nvs::Page::EntryState)
+esp_err_t nvs::Page::initialize()
+esp_err_t nvs::Page::mLoadEntryTable()
+esp_err_t nvs::Page::copyItems(nvs::Page&)
+void nvs::Page::updateFirstUsedEntry(size_t, size_t)
+Tenum CompressedEnumTable<Tenum, Nbits, Nitems>::get(size_t) const [with Tenum = nvs::Page::EntryState; unsigned int Nbits = 2u; unsigned int Nitems = 126u; size_t = unsigned int]
+esp_err_t nvs::Page::eraseEntryAndSpan(size_t)
+uint32_t nvs::Page::getEntryAddress(size_t) const
+false && "item should have been present in cache"
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_item_hash_list.cpp
+void nvs::HashList::erase(size_t, bool)
+usedEntries == newPage->getUsedEntryCount()
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/nvs_flash/src/nvs_pagemanager.cpp
+mPageList.back().getSeqNumber(lastSeqNo)
+esp_err_t nvs::PageManager::load(uint32_t, uint32_t)
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/spi_flash/partition.c
+iterator != NULL
+partition != NULL
+esp_partition_erase_range
+esp_partition_get
+esp_partition_next
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff42000 + (((1)>1) ? (((1)* 0x1000) + 0x20000) : (((~(1)) & 1)* 0x1000 ))) + 0x80) + i * 4)) >= 0x3ff00000) && ((((0x3ff42000 + (((1)>1) ? (((1)* 0x1000) + 0x20000) : (((~(1)) & 1)* 0x1000 ))) + 0x80) + i * 4)) <= 0x3ff13FFC))
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/spi_flash/spi_flash_rom_patch.c
+"(Cannot use WRITE_PERI_REG for DPORT registers use DPORT_WRITE_PERI_REG)" && (!((((((0x3ff42000 + (((1)>1) ? (((1)* 0x1000) + 0x20000) : (((~(1)) & 1)* 0x1000 ))) + 0x80) + i * 4)) >= 0x3ff00000) && ((((0x3ff42000 + (((1)>1) ? (((1)* 0x1000) + 0x20000) : (((~(1)) & 1)* 0x1000 ))) + 0x80) + i * 4)) <= 0x3ff13FFC))
+esp_rom_spiflash_read_data
+esp_rom_spiflash_program_page_internal
+s_flash_op_mutex != NULL
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/spi_flash/cache_utils.c
+esp_ptr_in_dram((const void *)get_sp())
+s_flash_op_cpu == -1
+other_cpuid == 1
+ret == ESP_OK
+xPortGetCoreID() == cpuid
+cpuid == s_flash_op_cpu
+!(xTaskGetSchedulerState() == taskSCHEDULER_NOT_STARTED && cpuid != 0)
+spi_flash_enable_interrupts_caches_and_other_cpu
+spi_flash_disable_interrupts_caches_and_other_cpu
+spi_flash_init_lock
+s_mmap_page_refcnt[i] == 0 || (entry_pro == pages[pageno] && entry_app == pages[pageno])
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/spi_flash/flash_mmap.c
+s_mmap_page_refcnt[i] > 0
+0 && "invalid handle, or handle already unmapped"
+handle=%d page=%d count=%d
+page %d: refcnt=%d paddr=%d
+spi_flash_munmap
+spi_flash_mmap_pages
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+St9exception
+LGB?
+EB?N9__gnu_cxx24__concurrence_lock_errorE
+FB?N9__gnu_cxx26__concurrence_unlock_errorE
+FB?DFB?
+@St9bad_alloc
+FB?.2
+@std::bad_alloc
+D/IRAM
+PID2IRAM
+PID3IRAM
+PID4IRAM
+PID5IRAM
+PID6IRAM
+PID7IRAM
+PID2DRAM
+PID3DRAM
+PID4DRAM
+PID5DRAM
+PID6DRAM
+PID7DRAM
+SPIRAM
+TJB?
+`JB?
+\JB?
+hJB? 
+tJB?@
+JB? 
+JB?@
+reserved[i].start < reserved[i].end
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/soc/src/memory_layout_utils.c
+reserved[i+1].start > reserved[i].start
+memory_layout
+E (%d) %s: SOC_RESERVE_MEMORY_REGION region range 0x%08x - 0x%08x overlaps with 0x%08x - 0x%08x
+in_start < reserved[i].start
+in_end > reserved[i].end
+s_prepare_reserved_regions
+soc_get_available_memory_regions
+tls != NULL
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/pthread/pthread_local_storage.c
+pthread_local_storage_thread_deleted_callback
+pthread
+E (%d) %s: Failed to allocate task args!
+E (%d) %s: Failed to allocate pthread data!
+E (%d) %s: Failed to create task!
+false && "Failed to lock threads list!"
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/pthread/pthread.c
+false && "Failed to find pthread for current task!"
+E (%d) %s: %s: not supported!
+false && "Failed to find current thread ID!"
+E (%d) %s: %s: Invalid args!
+false && "Failed to release mutex!"
+false && "Failed to unlock mutex!"
+pthread_mutex_unlock
+pthread_mutex_destroy
+pthread_cancel
+(bit_start_in_reg + bit_count_used_in_reg) <= 32
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/efuse/src/esp_efuse_utility.c
+blk >= 0 && blk <= 3
+num_reg <= 6
+num_reg <= 7
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((addr_wr_reg)) >= 0x3ff00000) && ((addr_wr_reg)) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!((((addr_wr_reg)) >= 0x3ff00000) && ((addr_wr_reg)) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((addr_wr_block)) >= 0x3ff00000) && ((addr_wr_block)) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!((((addr_wr_block)) >= 0x3ff00000) && ((addr_wr_block)) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((addr_rd_block)) >= 0x3ff00000) && ((addr_rd_block)) <= 0x3ff13FFC))
+efuse
+E (%d) %s: Range of data does not match the coding scheme
+bits_counter <= req_size
+EFUSE_BLKx:
+%d) 
+0x%08x 
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((range_read_addr_blocks[blk].start + num_reg * 4)) >= 0x3ff00000) && ((range_read_addr_blocks[blk].start + num_reg * 4)) <= 0x3ff13FFC))
+E (%d) %s: Repeated programming of programmed bits is strictly forbidden 0x%08x
+E (%d) %s: Bits are not empty. Write operation is forbidden.
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!((((range_write_addr_blocks[num_block].start + (num_reg + r) * 4)) >= 0x3ff00000) && ((range_write_addr_blocks[num_block].start + (num_reg + r) * 4)) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!((((range_write_addr_blocks[num_block].start + i * 4)) >= 0x3ff00000) && ((range_write_addr_blocks[num_block].start + i * 4)) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!((((range_write_addr_blocks[num_block].start + (i + 4) * 4)) >= 0x3ff00000) && ((range_write_addr_blocks[num_block].start + (i + 4) * 4)) <= 0x3ff13FFC))
+esp_efuse_utility_read_reg
+esp_efuse_utility_process
+fd >=0 && fd < 3
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/vfs/vfs_uart.c
+s_peek_char[fd] == NONE
+fd >= 0 && fd < 3
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff40000 + (uart_no) * 0x10000 + ( (uart_no) > 1 ? 0xe000 : 0 ) ) + 0x1C))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_no) * 0x10000 + ( (uart_no) > 1 ? 0xe000 : 0 ) ) + 0x1C))) <= 0x3ff13FFC))
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp32/include/rom/uart.h
+/dev/uart
+esp_vfs_register("/dev/uart", &vfs, NULL)
+uart_write
+uart_return_char
+uart_read
+uart_close
+uart_fstat
+uart_fcntl
+uart_tx_wait_idle
+uart_fsync
+esp_vfs_dev_uart_register
+?uart
+uart driver error
+0 && "uart_num error"
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/driver/uart.c
+uart_num error
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x0))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x0))) <= 0x3ff13FFC))
+"(Cannot use WRITE_PERI_REG for DPORT registers use DPORT_WRITE_PERI_REG)" && (!((((((0x60000000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x0))) >= 0x3ff00000) && ((((0x60000000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x0))) <= 0x3ff13FFC))
+"(Cannot use SET_PERI_REG_MASK for DPORT registers use DPORT_SET_PERI_REG_MASK)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10))) <= 0x3ff13FFC))
+"(Cannot use WRITE_PERI_REG for DPORT registers use DPORT_WRITE_PERI_REG)" && (!(((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10)))) >= 0x3ff00000) && (((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10)))) <= 0x3ff13FFC))
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x10))) <= 0x3ff13FFC))
+"(Cannot use SET_PERI_REG_MASK for DPORT registers use DPORT_SET_PERI_REG_MASK)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) <= 0x3ff13FFC))
+"(Cannot use WRITE_PERI_REG for DPORT registers use DPORT_WRITE_PERI_REG)" && (!(((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC)))) >= 0x3ff00000) && (((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC)))) <= 0x3ff13FFC))
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) <= 0x3ff13FFC))
+"(Cannot use CLEAR_PERI_REG_MASK for DPORT registers use DPORT_CLEAR_PERI_REG_MASK)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0xC))) <= 0x3ff13FFC))
+data bit error
+stop bit error
+inverse_mask error
+"(Cannot use CLEAR_PERI_REG_MASK for DPORT registers use DPORT_CLEAR_PERI_REG_MASK)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) <= 0x3ff13FFC))
+"(Cannot use WRITE_PERI_REG for DPORT registers use DPORT_WRITE_PERI_REG)" && (!(((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20)))) >= 0x3ff00000) && (((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20)))) <= 0x3ff13FFC))
+"(Cannot use READ_PERI_REG for DPORT registers use DPORT_READ_PERI_REG)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) <= 0x3ff13FFC))
+"(Cannot use SET_PERI_REG_MASK for DPORT registers use DPORT_SET_PERI_REG_MASK)" && (!((((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) >= 0x3ff00000) && ((((0x3ff40000 + (uart_num) * 0x10000 + ( (uart_num) > 1 ? 0xe000 : 0 ) ) + 0x20))) <= 0x3ff13FFC))
+rx flow xon thresh error
+rx flow thresh error
+hw_flowctrl mode error
+uart pattern set error
+empty intr threshold error
+tx_io_num error
+rx_io_num error
+rts_io_num error
+cts_io_num error
+"(Cannot use REG_SET_FIELD for DPORT registers use DPORT_REG_SET_FIELD)" && (!((((GPIO_PIN_MUX_REG[tx_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[tx_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!(((((GPIO_PIN_MUX_REG[tx_io_num]))) >= 0x3ff00000) && (((GPIO_PIN_MUX_REG[tx_io_num]))) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((GPIO_PIN_MUX_REG[tx_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[tx_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_SET_FIELD for DPORT registers use DPORT_REG_SET_FIELD)" && (!((((GPIO_PIN_MUX_REG[rx_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[rx_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!(((((GPIO_PIN_MUX_REG[rx_io_num]))) >= 0x3ff00000) && (((GPIO_PIN_MUX_REG[rx_io_num]))) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((GPIO_PIN_MUX_REG[rx_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[rx_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_SET_FIELD for DPORT registers use DPORT_REG_SET_FIELD)" && (!((((GPIO_PIN_MUX_REG[rts_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[rts_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!(((((GPIO_PIN_MUX_REG[rts_io_num]))) >= 0x3ff00000) && (((GPIO_PIN_MUX_REG[rts_io_num]))) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((GPIO_PIN_MUX_REG[rts_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[rts_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_SET_FIELD for DPORT registers use DPORT_REG_SET_FIELD)" && (!((((GPIO_PIN_MUX_REG[cts_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[cts_io_num])) <= 0x3ff13FFC))
+"(Cannot use REG_WRITE for DPORT registers use DPORT_REG_WRITE)" && (!(((((GPIO_PIN_MUX_REG[cts_io_num]))) >= 0x3ff00000) && (((GPIO_PIN_MUX_REG[cts_io_num]))) <= 0x3ff13FFC))
+"(Cannot use REG_READ for DPORT registers use DPORT_REG_READ)" && (!((((GPIO_PIN_MUX_REG[cts_io_num])) >= 0x3ff00000) && ((GPIO_PIN_MUX_REG[cts_io_num])) <= 0x3ff13FFC))
+disable hw flowctrl before using sw control
+uart idle num error
+param null
+buffer null
+uart size error
+uart data null
+break_num error
+E (%d) %s: rx_buffered_len error
+uart rx buffer length error(>128)
+uart tx buffer length error(>128 or 0)
+ESP_INTR_FLAG_IRAM set in intr_alloc_flags
+E (%d) %s: UART driver malloc error
+E (%d) %s: UART driver already installed
+disable hw flowctrl before using RS485 mode
+tout_thresh max value is 126
+wrong parameter pointer
+wrong mode
+wakeup_threshold out of bounds
+argument is NULL
+uart_flush_input
+uart_get_buffered_data_len
+uart_pattern_queue_update
+uart_wait_tx_done
+uart_reset_rx_fifo
+uart_reset_rx_fifo
+uart_disable_intr_mask
+uart_disable_intr_mask
+uart_enable_intr_mask
+uart_enable_intr_mask
+uart_get_baudrate
+uart_set_baudrate
+uart_get_parity
+uart_set_parity
+uart_get_stop_bits
+uart_set_stop_bits
+uart_get_word_length
+uart_set_word_length
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_ringbuf/ringbuf.c
+Rb size:%d	free: %d	rptr: %d	freeptr: %d	wptr: %d
+vRingbufferReturnItem
+prvReceiveGeneric
+xRingbufferReceive
+prvGetFreeSize
+xRingbufferSend
+ota_app_count < 16 && "must erase the partition before writing to it"
+/home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/app_update/esp_ota_ops.c
+esp_ota_ops
+E (%d) %s: invalid partition table, no app partitions
+E (%d) %s: not found otadata
+E (%d) %s: mmap otadata filed. Err=0x%8x
+phys_offs != SPI_FLASH_CACHE2PHYS_FAIL
+it != NULL
+E (%d) %s: write data is invalid
+it->erased_size > 0 && "must erase the partition before writing to it"
+E (%d) %s: OTA image has invalid magic byte (expected 0xE9, saw 0x%02x)
+E (%d) %s: not found the handle
+E (%d) %s: ota data invalid, no current app. Assuming factory
+start_from != NULL
+E (%d) %s: Rollback is not possible, do not have any suitable apps in slots
+E (%d) %s: Running firmware is factory
+esp_ota_get_running_partition
+Z}B?
+}}B?
+0~B?
+L~B?
+]~B?
+m~B?
+~~B?
