@@ -10,7 +10,7 @@
 #include <XPT2046_Touchscreen.h>
 #include <TFT_eSPI.h>
 
-#ifndef TFT_SCLK
+#ifndef TFT_WIDTH
   #include "User_Setup.h"
 #endif
 
