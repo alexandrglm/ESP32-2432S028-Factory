@@ -8,6 +8,7 @@
  * 
  * 16: GREEN / 17: BLUE / 18: RED
  */
-#define LED_PIN 16
+
+static int   LED_PIN = 16;
 
 #endif
