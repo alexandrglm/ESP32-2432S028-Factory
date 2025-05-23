@@ -1,11 +1,12 @@
 #ifndef BLE_DATA_H
 #define BLE_DATA_H
+
 /*
  * SERVER NAME -> 
- * LED SERVIDE UUID / CHARASTERICIS UUID -> Use uuifgen
+ * LED SERVIDE UUID / CHARASTERICIS UUID -> Use uuidgen
  */
 
-#define bleServerName "ESP32_TEST_SERVER"
+static const char* bleServerName = "ESP_SERVER";
 
 #define LED_SERVICE_UUID "5aead110-d619-47b0-86f9-6bedb76f7ea1"
 
