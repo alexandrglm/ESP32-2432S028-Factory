@@ -5,13 +5,21 @@
 // 
 //  -> ILI9341 driver:      <TFT_eSPI.h>
 //  -> XPT2046 driver:      <XPT2046_Touchscreen.h>
+// #######################################################
+//  MAIN OBJECTS;
+//      > TFT_ILI9341_component
+//      > TOUCH_XPT2046_component
+//      > PUBLIC VARS + CLASS INITS + Func screenInit()
 //
+// These 3 embebbed objects can be exported into separated components,
+// as shown in ./for_general_usage folder
+// #######################################################
 //  >>>> IMPORTANT
 //
 //       Even it's not mandatory to set SPI hosts/ports,
 //      you may engage knowledge aboout these, so that...
 //
-//      TFT uses SPI2 -> HSPI (
+//      TFT uses SPI2 -> HSPI 
 //      TOUCH uses SPI2 -> VSPI (BUT, using ESP-IDF, uses SPI3)
 //
 // #######################################################
@@ -22,7 +30,7 @@
 
 
 // **************************************
-// TFT DEFINITIONS
+// TFT_ILI9341_component
 // **************************************
 // TFT DRIVER
 #define ILI9341_2_DRIVER  // Also available ILI9341_DRIVER
@@ -54,7 +62,7 @@
 #define SMOOTH_FONT
 
 // **************************************
-// TOUCH DEFINITIONS
+// TOUCH_XPT2046_component
 // **************************************
 // PINS
 #define XPT2046_CS    33
@@ -67,7 +75,7 @@
 
 
 // **************************************
-// VARS - INITS for libraries - CLASS
+// PUBLIC VARS - CLASS INITS 
 // **************************************
 TFT_eSPI tft = TFT_eSPI();
 
@@ -76,6 +84,9 @@ XPT2046_Touchscreen touchSets(XPT2046_CS, XPT2046_IRQ);
 
 int minX = 0,   maxX = 4095;
 int minY = 0,   maxY = 4095;
+
+
+
 
 static bool touchWorksDisplayed = false;
 
@@ -95,7 +106,7 @@ public:
 
 
 
-void initTFTandTouch() {
+void screenInit() {
 
     int rotationFixed = 1;  // This value implies BOTH TFT & TOUCH
   /* ***********************************************************************
@@ -135,7 +146,7 @@ void setup() {
 
     Serial.begin(115200);
 
-    initTFTandTouch();
+    screenInit();
 
     // **************************************
     // Main butoncito and text program for test
