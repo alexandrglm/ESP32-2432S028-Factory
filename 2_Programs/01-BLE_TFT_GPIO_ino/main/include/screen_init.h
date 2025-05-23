@@ -29,6 +29,8 @@ inline void screenInit() {
 
     int rotationFixed = 1;
     /* ***********************************************************************
+   * - Rotation for BOTH components- 
+   *
    * 0:  Portrait                  - Flex connector at the bottom
    * 1:  Landscape                 - Flex connector on the left side
    * 2:  Portrait Inverted        - Flex connector at the top
@@ -36,12 +38,12 @@ inline void screenInit() {
    *********************************************************************** */
 
     tft.begin();
+    SPI.begin(XPT2046_CLK, XPT2046_MISO, XPT2046_MOSI, XPT2046_CS);
     touchSets.begin();
 
     tft.setRotation(rotationFixed);
-    SPI.begin(XPT2046_CLK, XPT2046_MISO, XPT2046_MOSI, XPT2046_CS);
-    touchSets.setRotation(rotationFixed);
 
+    touchSets.setRotation(rotationFixed);
     
     tft.invertDisplay(1);
     /* ***********************************************************************
