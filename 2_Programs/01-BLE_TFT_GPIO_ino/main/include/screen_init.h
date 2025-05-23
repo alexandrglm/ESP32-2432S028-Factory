@@ -2,8 +2,10 @@
 // ESP32-2432s028 SCREEN INITIALIZATION
 //
 // For ESP-IDF usage, add-components for "TFT_eSPI" and " <XPT2046_Touchscreen.h>"
+//
+// Main Func for Initialization ---> screenInit();
 // ###############################################################################
-
+initT
 #ifndef SCREEN_INIT_H
 #define SCREEN_INIT_H
 
@@ -21,8 +23,9 @@ TFT_eSPI tft = TFT_eSPI();
 SPIClass hspi(HSPI);
 XPT2046_Touchscreen touchSets(XPT2046_CS, XPT2046_IRQ);
 
+
 // init func made public for usage in main.,c
-inline void initTFTandTouch() {
+inline void screenInit() {
 
     int rotationFixed = 1;
     /* ***********************************************************************
@@ -36,6 +39,7 @@ inline void initTFTandTouch() {
     touchSets.begin();
 
     tft.setRotation(rotationFixed);
+    SPI.begin(XPT2046_CLK, XPT2046_MISO, XPT2046_MOSI, XPT2046_CS);
     touchSets.setRotation(rotationFixed);
 
     
