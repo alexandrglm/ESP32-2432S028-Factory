@@ -5,7 +5,7 @@
 //
 // Main Func for Initialization ---> screenInit();
 // ###############################################################################
-initT
+
 #ifndef SCREEN_INIT_H
 #define SCREEN_INIT_H
 
