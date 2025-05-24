@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP32 Admin Panel</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/stats.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <style>
+
+    </style>
+</head>
+<body>
+    <navbar>
+        <p>ESP32 Server Stats</p>
+    </navbar>
+
+    <div class="cards-wrapper">
+
+
+        <div class="card">
+            <h2>Hardware</h2>
+            <canvas id="cpu-usage" class="chart-container"></canvas>
+            <p>Temperatura: <span id="temp">-</span>°C</p>
+        </div>
+
+
+
+        <div class="card">
+            <h2>Memory</h2>
+            <canvas id="memory-chart" class="chart-container"></canvas>
+            <p>Heap Fragmentation: <span id="fragmentation">-</span>%</p>
+        </div>
+
+
+
+        <div class="card">
+            <h2>Storage</h2>
+            <canvas id="storage-chart" class="chart-container"></canvas>
+        </div>
+
+
+
+        <div class="card">
+            <h2>Network</h2>
+            <p>SSID: <strong id="ssid">-</strong></p>
+            <p>IP: <code id="ip">-</code></p>
+            <p>RSSI: <span id="rssi">-</span> dBm</p>
+        </div>
+
+
+
+        <div class="card file-explorer">
+            <h2>File Explorer</h2>
+            <div>
+                <select id="fs-select">
+                <option value="littlefs">LittleFS</option>
+                <option value="spiffs">SPIFFS</option>
+                <option value="sd">SD Card</option>
+                </select>
+                <button class="btn btn-secondary" onclick="refreshFiles()">Refresh</button>
+            </div>
+
+            <form id="upload-form">
+                <input type="file" id="file-input" name="file">
+                <button class="btn btn-primary" type="submit">Upload</button>
+            </form>
+
+            <div id="file-list">
+                <table>
+                <thead>
+                    <tr>
+                    <th>Name</th>
+                    <th>Size</th>
+                    <th></th>
+                    </tr>
+                </thead>
+                <tbody id="files"></tbody>
+                </table>
+            </div>
+            </div>
+
+
+
+    <script src="./js/stats.js"></script>
+
+</body>
+<footer>
+    Designed by: <a href="https://github.com/alexandrglm" target="_blank"><i class="fa-brands fa-github"></i>@alexandrglm</a>
+</footer>
+</html>
