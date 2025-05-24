@@ -1,0 +1,62 @@
+html, body {
+    margin: 0; padding: 0; height: 100%;
+    display: flex; flex-direction: column;
+}
+body {
+    background: #111;
+    color: #eee;
+    font-family: Arial, sans-serif;
+}
+#game-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+canvas {
+    border: 2px solid #fff;
+    background: #000;
+    display: block;
+}
+footer {
+    width: 100%;
+    background: #222;
+    color: #ddd;
+    font-size: 14px;
+    padding: 10px 0;
+    text-align: center;
+    user-select: none;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.5);
+}
+
+footer {
+    background-color: #121;
+    color: greenyellow;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-family: "Merriweather", serif;
+    font-size: 1lh;
+
+}
+
+footer a {
+    color: #f5f5dc;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-weight: 500;
+    margin:  0 1lh 0 0;
+}
+
+footer a:hover {
+    color: coral;
+}
+
+footer .fa-github {
+    margin: 0 0.1lh 0 20px;
+    font-size: 1rem;
+}
