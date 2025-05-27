@@ -21,11 +21,12 @@
 | Function          | Pin (GPIO) | Description                                       |
 | :---------------- | :--------- | :------------------------------------------------ |
 | **TOUCH CS** | `33`       | Chip Select for the resistive touch panel.        |
-| **TOUCH IRQ** | `36`       | Interrupt Request from the touch controller.      |
+| **TOUCH IRQ** | `36`       | Interrupt Request from the touch controller. (When using LovyanGFX it might be disabled as -1)   |
 | **TOUCH MISO** | `39`       | Master In, Slave Out (Data from Touch to ESP32).  |
 | **TOUCH MOSI** | `32`       | Master Out, Slave In (Data from ESP32 to Touch).  |
 | **TOUCH CLOCK** | `25`       | Serial Clock for the touch panel.                 |
 | **SPI Freq** | `2500000` Hz   | SPI frequency for touch communication.            |
+
 
 ---
 
@@ -48,6 +49,7 @@
 | **AUDIO WS / LRBCK**| `2`        | Word Select / Left/Right Bit Clock for I2S audio.                  |
 | **AUDIO DOUT** | `8`        | Data Out for I2S audio (Note: GPIO 8 is also used for flash/SDIO). |
 
+
 ---
 
 #### RGB LED Pinout
@@ -59,6 +61,11 @@
 | **RED** | `4`        | Controls the Red component of the RGB LED.    |
 
 ---
+
+#### LIGHT SENSOR
+| Function          | Pin (GPIO) | Description                                   |
+| :---------------- | :--------- | :-------------------------------------------- |
+| CDS INPUT          | `34`      |  Photoocnductive Input values pin.        |
 
 ### ESP32-WROOM-32 Chip Direct Pins
 
@@ -93,7 +100,35 @@
 
 ---
 
-#### Others
+#### EXPANSION PORTS / OTHERS
+
+#### EXPANDED IO (Labeled as P3)
+
+| *PIN 1*  | *PIN 2* | *PIN 3* | *PIN 4* |
+| :------- | :------ | :------ | :------ |
+| **GND**  | **35**  | **22**  | **21** | 
+
+
+#### EXPANDED IO (Labeled as CN1)
+
+| *PIN 1*  | *PIN 2*           | *PIN 3* | *PIN 4* |
+| :------- | :---------------- | :------ | :------ |
+| **GND**  | **NOT CONNECTED**  | **27**  | **Vcc 3,3V** | 
+
+#### EXT POWER CONNECTOR - SERIAL TTL EXT CONNECTOR (Labeles as P5)
+
+| *PIN 1*       | *PIN 2* | *PIN 3* | *PIN 4* |
+| :------------ | :------ | :------ | :------ |
+| **Vcc (IN)**  | **TX**  | **RX**  | **GND** | 
+
+#### EXT AUDIO OUT (LABELED AS P4)
+
+| *PIN 1*       | *PIN 2* |
+| :------------ | :------ |
+| **VO1**        | **VO2**  |
+
+
+
 
 | Function          | Pin (GPIO) | Description                                   |
 | :---------------- | :--------- | :-------------------------------------------- |
@@ -101,3 +136,5 @@
 | **SENSOR VN** | `39`       | Analog input for sensor (Voltage Negative).   |
 | **I2C SDA** | `21`       | I2C Serial Data line.                         |
 | **I2C SCL** | `22`       | I2C Serial Clock line.                        |
+
+
