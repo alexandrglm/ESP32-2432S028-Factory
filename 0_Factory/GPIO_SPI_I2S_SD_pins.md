@@ -1,77 +1,103 @@
-
-### ESP32-2432S028R Pins for 
-
+### ESP32-2432S028R Pinout
 
 #### TFT (HSPI)
-* TFT CS:           **15**
-* TFT MISO:         **12**
-* TFT MOSI:         **13**
-* TFT SCLK:         **14**
-* TFT D/C:          **2**
-* TFT Backlight:    **21**
-  TFT Backlight Init Status:   HIHG
-* TFT RESET:        No Pin (-1)
-  
-* TFT SPI Read freq:   40000000  (40MHz)
-* TFT SPI Write freq:  20000000
 
+| Function          | Pin (GPIO) | Description                                         |
+| :---------------- | :--------- | :-------------------------------------------------- |
+| **TFT CS** | `15`       | Chip Select for the TFT display.                    |
+| **TFT MISO** | `12`       | Master In, Slave Out (Data from TFT to ESP32).      |
+| **TFT MOSI** | `13`       | Master Out, Slave In (Data from ESP32 to TFT).      |
+| **TFT SCLK** | `14`       | Serial Clock for the TFT display.                   |
+| **TFT D/C** | `2`        | Data/Command line for the TFT controller.           |
+| **TFT Backlight** | `21`       | Controls the display's backlight (High for ON).     |
+| **TFT RESET** | `-1`       | No dedicated reset pin (software reset or not used). |
+| **SPI Read Freq** | `40000000` Hz    | SPI frequency for reading data from TFT.            |
+| **SPI Write Freq**| `20000000` Hz    | SPI frequency for writing data to TFT.              |
+
+---
 
 #### TOUCH
-* TOUCH CS:           **33**
-* TOUCH IRQ:          **36**
-* TOUCH MISO:         **39**
-* TOUCH MOSI:         **32**
-* TOUCH CLOCK:        **25**
-  
-* TFT SPI  freq:   2500000  (2.5MHz)
 
+| Function          | Pin (GPIO) | Description                                       |
+| :---------------- | :--------- | :------------------------------------------------ |
+| **TOUCH CS** | `33`       | Chip Select for the resistive touch panel.        |
+| **TOUCH IRQ** | `36`       | Interrupt Request from the touch controller.      |
+| **TOUCH MISO** | `39`       | Master In, Slave Out (Data from Touch to ESP32).  |
+| **TOUCH MOSI** | `32`       | Master Out, Slave In (Data from ESP32 to Touch).  |
+| **TOUCH CLOCK** | `25`       | Serial Clock for the touch panel.                 |
+| **SPI Freq** | `2500000` Hz   | SPI frequency for touch communication.            |
 
-#### SD (VSPI)
+---
 
-* SD CS:             **5**
-* SD CLOCK:          **18**
-* SD MISO:           **19**
-* SD MOSI:           **23**
+#### SD Card (VSPI)
 
-#### AUDIO OUT - (SDI - I2S)
+| Function          | Pin (GPIO) | Description                                       |
+| :---------------- | :--------- | :------------------------------------------------ |
+| **SD CS** | `5`        | Chip Select for the SD card.                      |
+| **SD CLOCK** | `18`       | Serial Clock for the SD card.                     |
+| **SD MISO** | `19`       | Master In, Slave Out (Data from SD to ESP32).     |
+| **SD MOSI** | `23`       | Master Out, Slave In (Data from ESP32 to SD).     |
 
-* AUDIO BCK          **0**  ADC2
-* AUDIO WS / LRBCK:  **2**  ADC2
-* AUDIO DOUT:        **8**  SDI/SD1
+---
 
+#### Audio Out (I2S)
 
-#### RGB LED PINOUT
-* BLUE                **16**
-* GREEN               **17**
-* RED                 **4**
+| Function            | Pin (GPIO) | Description                                                        |
+| :------------------ | :--------- | :----------------------------------------------------------------- |
+| **AUDIO BCK** | `0`        | Bit Clock for I2S audio (Note: GPIO 0 is also a boot pin, can be problematic). |
+| **AUDIO WS / LRBCK**| `2`        | Word Select / Left/Right Bit Clock for I2S audio.                  |
+| **AUDIO DOUT** | `8`        | Data Out for I2S audio (Note: GPIO 8 is also used for flash/SDIO). |
 
+---
 
-***
-CHIP direct pins as diagrams detail:
-ESP32-WROOM-32
+#### RGB LED Pinout
+
+| Function          | Pin (GPIO) | Description                                   |
+| :---------------- | :--------- | :-------------------------------------------- |
+| **BLUE** | `16`       | Controls the Blue component of the RGB LED.   |
+| **GREEN** | `17`       | Controls the Green component of the RGB LED.  |
+| **RED** | `4`        | Controls the Red component of the RGB LED.    |
+
+---
+
+### ESP32-WROOM-32 Chip Direct Pins
 
 #### Buzzer - I2S (Not Included in ESP32-2462S028R)
-- GPIO should be      **26** for DAC 2-ADC2
-                      **34** for DAC 1 - ADC1 or Input
+
+| Function          | Pin (GPIO) | Description                                       |
+| :---------------- | :--------- | :------------------------------------------------ |
+| **DAC 2 / ADC2** | `26`       | Digital to Analog Converter output / Analog to Digital Converter input. |
+| **DAC 1 / ADC1 / Input**| `34`       | Digital to Analog Converter output / Analog to Digital Converter input / General purpose input. |
+
+---
 
 #### FLASH
-* SHD/SW2            **9**
-* SWP/SD3            **10**
-* SCS-CSD / CMD      **11**
-* SCK / CLK          **6**
-* SDI / SD1          **8**
-* SDO / SD0          **7**
 
-#### TTL
-* UART0 TX          **1**
-* UART0 RX          **3**
+| Function          | Pin (GPIO) | Description                                     |
+| :---------------- | :--------- | :---------------------------------------------- |
+| **SHD / SW2** | `9`        | Flash control pin (SHD - shutdown / SW2).       |
+| **SWP / SD3** | `10`       | Flash control pin (SWP - write protect / SD3).  |
+| **SCS-CSD / CMD** | `11`       | Flash control pin (CSD - Chip Select / CMD).    |
+| **SCK / CLK** | `6`        | Flash control pin (SCK - Serial Clock / CLK).   |
+| **SDI / SD1** | `8`        | Flash control pin (SDI - Serial Data In / SD1). |
+| **SDO / SD0** | `7`        | Flash control pin (SDO - Serial Data Out / SD0).|
 
+---
+
+#### TTL (Serial Communication)
+
+| Function          | Pin (GPIO) | Description                                      |
+| :---------------- | :--------- | :----------------------------------------------- |
+| **UART0 TX** | `1`        | UART0 Transmit pin (for debugging/communication).|
+| **UART0 RX** | `3`        | UART0 Receive pin (for debugging/communication). |
+
+---
 
 #### Others
-* SENSOR VP        **36**
-* SENSOR VN        **39**
 
-* I2C SDA          **21**
-* I2C SDL          **22**
-
-
+| Function          | Pin (GPIO) | Description                                   |
+| :---------------- | :--------- | :-------------------------------------------- |
+| **SENSOR VP** | `36`       | Analog input for sensor (Voltage Positive).   |
+| **SENSOR VN** | `39`       | Analog input for sensor (Voltage Negative).   |
+| **I2C SDA** | `21`       | I2C Serial Data line.                         |
+| **I2C SCL** | `22`       | I2C Serial Clock line.                        |
