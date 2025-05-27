@@ -23,12 +23,12 @@ This versatile module supports development across various popular platforms, inc
 
 | Parameter                  | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Product Name** | ESP32-2432S028R 2.8 inch                |
+| **Product Name (SKU)** | ESP32-2432S028R 2.8 inch                |
 | **Display Color** | RGB 65K color                           |
-| **SKU** | (Not provided in source)                |
 | **Size** | 2.8 inch                                |
 | **Type** | TFT                                     |
-| **Driver Chip** | ILI9341                                 |
+| **TFT Driver Chip** | ILI9341                                 |
+| **TOUCH Driver Chip** | XPT2046 Resistive                                
 | **Resolution** | 320 x 240 (Pixel)                       |
 | **Effective Display Area** | 43.2 x 57.6 (mm)                        |
 | **Module Size** | 50.0 x 86.0 (mm)                        |
